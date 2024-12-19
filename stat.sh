@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 # =============================================================================
 # Name: stat.sh
 # Description: Monitors and displays active network connections by port, with
